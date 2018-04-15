@@ -25,7 +25,7 @@ GEM
       activesupport (~> 4.1.11)
       arel (~> 4.0.0)
     activerecord-deprecated_finders (1.0.3)
-    activesupport (4.0.1)
+    activesupport (~> 4.1.11)
       i18n (~> 0.6.6)
       minitest (~> 4.2)
       multi_json (~> 1.3)
